@@ -1,0 +1,19 @@
+# Build directories
+_build/
+build/
+cmake-build-*/
+CMakeCache.txt
+CMakeFiles/
+*.o
+*.a
+*.so
+*.exe
+*.out
+*.log
+log.txt
+*~
+*.swp
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
